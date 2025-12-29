@@ -1,16 +1,12 @@
 ## Mental Health Application Using Explainable Artificial Intelligence (XAI)
 
-## Description:
-
 The Mental Health Application using XAI is a web-based system designed to assess stress, anxiety, and depression levels using machine learning while ensuring transparency through explainable AI techniques. The application enhances trust by clearly explaining how predictions are generated, supporting early awareness and mental well-being.
 
 ## About
 
-Mental health plays a vital role in overall well-being, influencing productivity, relationships, and quality of life. However, many individuals hesitate to seek professional help due to stigma, lack of accessibility, or unawareness of early symptoms.
-
-This project proposes a web-based mental health assessment system that utilizes Machine Learning (ML) models to predict mental health conditions such as stress, anxiety, and depression based on questionnaire responses and user inputs.
-
-To overcome the lack of transparency in traditional AI systems, Explainable Artificial Intelligence (XAI) techniques are integrated to provide clear and interpretable explanations for every prediction. This improves user trust and supports professionals in understanding AI-driven results.
+- Mental health plays a vital role in overall well-being, influencing productivity, relationships, and quality of life. However, many individuals hesitate to seek professional help due to stigma, lack of accessibility, or unawareness of early symptoms.
+- This project proposes a web-based mental health assessment system that utilizes Machine Learning (ML) models to predict mental health conditions such as stress, anxiety, and depression based on questionnaire responses and user inputs.
+- To overcome the lack of transparency in traditional AI systems, Explainable Artificial Intelligence (XAI) techniques are integrated to provide clear and interpretable explanations for every prediction. This improves user trust and supports professionals in understanding AI-driven results.
 
 ## Target Users
 
@@ -63,7 +59,8 @@ To overcome the lack of transparency in traditional AI systems, Explainable Arti
 * Version Control: Git
 
 ## System Architecture
-<img width="1103" height="687" alt="image" src="https://github.com/user-attachments/assets/117165a8-d5e4-467b-96b0-2298c280c07f" />
+<img width="2974" height="1680" alt="mental_health_flowchart_HD" src="https://github.com/user-attachments/assets/7aebc95d-f2ba-4665-9515-756ed64326d9" />
+
 
 ## Output
 
